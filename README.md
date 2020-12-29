@@ -1,7 +1,7 @@
 # Hotel-Booking-Demand-Exploratory-Analysis
 
-I used the dataset that contains data about hotel bookings
-We cleaned and preprocessed the data and then we performed the exploratory data analysis to extract information from the data to answer the following questions.
+I used the dataset that contains data about hotel bookings.
+I cleaned and preprocessed the data and then we performed the exploratory data analysis to extract information from the data to answer the following questions.
 
 1.How Many Booking Were Cancelled?
 
@@ -15,7 +15,7 @@ We cleaned and preprocessed the data and then we performed the exploratory data 
 
 We learned that
 
-1.Almost 35% of bookings were canceled.
+1.Almost 35% of bookings were cancelled.
 
 2.More than 60% of the population booked the City hotel.
 
