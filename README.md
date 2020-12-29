@@ -1,6 +1,6 @@
 # Hotel-Booking-Demand-Exploratory-Analysis
 
-We used the dataset that contains data about hotel bookings
+I used the dataset that contains data about hotel bookings
 We cleaned and preprocessed the data and then we performed the exploratory data analysis to extract information from the data to answer the following questions.
 
 1.How Many Booking Were Cancelled?
